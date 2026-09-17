@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+type: software
+title: "Constrained Decoding for Autoregressive Models"
+authors:
+  - family-names: "Maminta"
+    given-names: "Emmanuel"
+    email: "egmaminta@up.edu.ph"
+repository-code: "https://github.com/egmaminta/constrained-decoding-for-autoregressive-language-models"
+url: "https://github.com/egmaminta/constrained-decoding-for-autoregressive-language-models"
+license: MIT
+date-released: 2026-09-18
